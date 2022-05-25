@@ -22,7 +22,7 @@ Technologies used includes:
 
 ## Installation
 
-[![Installation Instructions](http://img.youtube.com/vi/4G3dHr5UpY8/0.jpg)](http://www.youtube.com/watch?v=4G3dHr5UpY8 "Installation Instructions")
+[![Installation Instructions](./utils/images/installation_preview.jpg)](http://www.youtube.com/watch?v=4G3dHr5UpY8 "Installation Instructions")
 
 ## Project Notes
 Future To-Do's:
