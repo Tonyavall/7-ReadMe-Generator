@@ -16,16 +16,16 @@ Upon installation and init, the user is prompted with several questions pertaini
 
 ## Tech Stack
 Technologies used includes:
-    1. JavaScript
-    2. Node.js
-    3. npm Inquirer
+1. JavaScript
+2. Node.js
+3. npm Inquirer
 
 ## Installation
 
 
 ## Project Notes
 Future To-Do's:
-    1. Validity of user input.
-    2. Better UI experience through other Inquierer methods such as multiselect.
-    3. Better UI experience through the use of emojis, or more specific examples.
+1. Validity of user input.
+2. Better UI experience through other Inquierer methods such as multiselect.
+3. Better UI experience through the use of emojis, or more specific examples.
 
