@@ -21,7 +21,7 @@ Technologies used includes:
 3. npm Inquirer
 
 ## Installation
-
+Click on the image for video instructions.
 [![Installation Instructions](./utils/images/installation_preview.jpg)](http://www.youtube.com/watch?v=4G3dHr5UpY8 "Installation Instructions")
 
 ## Project Notes
