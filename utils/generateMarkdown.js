@@ -39,7 +39,6 @@ function renderLicenseSection(license) {
 }
 
 const generateMarkdown = data =>
-
 `${renderLicenseBadge(data.license)}
 # ${data.title}
 ${data.description}
@@ -57,7 +56,6 @@ ${data.tech}
 - [Usage Information](#usage-information)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Test Instructions](#test-instructions)
-- [Questions](#questions)
 - [License](#license)
 
 ## Installation
@@ -74,8 +72,8 @@ ${data.test}
 
 ### License
 Copyright (c) ${data.license_information}
-Covered under the ${renderLicenseLink(data.license)}`
 
+Covered under the ${renderLicenseLink(data.license)}`
 ;
 
 module.exports = generateMarkdown;
