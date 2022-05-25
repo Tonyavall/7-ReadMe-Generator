@@ -1,6 +1,6 @@
 const inquirer = require('inquirer')
 const fs = require('fs')
-const generateMarkdown = require('./utils/generateMarkdown')
+const generateMarkdown = require('./utils/scripts/generateMarkdown')
 
 const questions = [
     {
@@ -77,7 +77,7 @@ const promptUser = () => inquirer.prompt(questions);
 function init() {
     promptUser()
         .then((answers) => {
-            const fileName = `${answers.file.toLowerCase().split(' ').join('')}.md`
+            const fileName = `${answers.file.split(' ').join('')}.md`
             return fs.writeFileSync(fileName, generateMarkdown(answers))
         })
         .then(() => console.log('Successfully written to file.'))
