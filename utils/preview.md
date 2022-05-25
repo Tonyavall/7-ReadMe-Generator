@@ -15,7 +15,6 @@ Created with JavaScript, Node, and npm Inquirer
 - [Usage Information](#usage-information)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Test Instructions](#test-instructions)
-- [Questions](#questions)
 - [License](#license)
 
 ## Installation
@@ -32,4 +31,5 @@ Test instructions goes here.
 
 ### License
 Copyright (c) 2022 John Doe
+
 Covered under the [Eclipse License](https://opensource.org/licenses/EPL-1.0)
