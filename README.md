@@ -23,6 +23,7 @@ Technologies used includes:
 ## Installation
 
 https://www.youtube.com/watch?v=4G3dHr5UpY8&ab_channel=tonyavall
+[![Installation Instructions](http://img.youtube.com/vi/4G3dHr5UpY8/0.jpg)](http://www.youtube.com/watch?v=4G3dHr5UpY8 "Installation Instructions")
 
 ## Project Notes
 Future To-Do's:
