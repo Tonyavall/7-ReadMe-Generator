@@ -1,27 +1,35 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Testing Project
-This document is a preview of the markdown file template.
-Deployed Site [Here](https://github.com/Tonyavall/HW-7-ReadMe-Generator)
+[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+# Preview Markdown File
+This is a preview of the Markdown File template
+
+Deployed Site [Here](https://github.com/Tonyavall/HW-7-ReadMe-Generator/tree/main/utils)
+
+## Application Preview
+![Application Preview](Image File Path goes here.)
 
 ## Tech Stack
-Tech Stack includes JavaScript, Node, and npm Inquirer
+Created with JavaScript, Node, and npm Inquirer
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage Information](#usage-information)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Test Instructions](#test-instructions)
 - [Questions](#questions)
 - [License](#license)
 
 ## Installation
-Installation instructions include ... 
+Use npm install to install its dependencies.
 
 ## Usage Information
-Usage information goes here.
+Usage Information goes here.
 
 ## Contribution Guidelines
-Contribution guidelines goes here.
+Contribution Guidelines go here.
 
 ## Test Instructions
 Test instructions goes here.
+
+### License
+Copyright (c) 2022 John Doe
+Covered under the [Eclipse License](https://opensource.org/licenses/EPL-1.0)

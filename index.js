@@ -1,7 +1,6 @@
 const inquirer = require('inquirer')
 const fs = require('fs')
 const generateMarkdown = require('./utils/generateMarkdown')
-console.log(generateMarkdown)
 
 const questions = [
     {
@@ -18,6 +17,11 @@ const questions = [
         type: 'input',
         name: 'description',
         message: 'What is the description for this project?'
+    },
+    {
+        type: 'input',
+        name: 'preview',
+        message: 'What is the image file path for the application preview? Ex. ./deployed.png'
     },
     {
         type: 'input',
@@ -52,7 +56,7 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        message: 'Pick a license',
+        message: 'What license is the project under?',
         choices: [
             {name: 'MIT', value: 'MIT'},
             {name: 'CC0', value: 'CC0'},
@@ -60,6 +64,11 @@ const questions = [
             {name: 'GNU', value: 'GNU'},
             {name: 'None', value: ''}
         ]
+    },
+    {
+        type: 'input',
+        name: 'license_information',
+        message: 'What is the year and name of the license? Ex. 2022 Tony Andrew Vallescas'
     }
 ]
 
